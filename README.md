@@ -3,7 +3,8 @@
 ## Quick Links
 
 PDF 下载 / PDF Report:
-- 最新 [ai-agent-deep-dive-v2.pdf](./ai-agent-deep-dive-v2.pdf)
+- [ai-agent-deep-dive-v2.1.pdf](./ai-agent-deep-dive-v2.1.pdf) 新增第八章：记忆系统
+- [ai-agent-deep-dive-v2.pdf](./ai-agent-deep-dive-v2.pdf)
 
 ## Notes
 
